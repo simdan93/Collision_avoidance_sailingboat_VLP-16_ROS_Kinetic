@@ -1,8 +1,0 @@
-prefix=/home/daniel/catkin_ws/devel
-
-Name: lidar_compution
-Description: Description of lidar_compution
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/daniel/catkin_ws/devel/lib 
-Requires: message_runtime pcl_ros roscpp pcl_conversions

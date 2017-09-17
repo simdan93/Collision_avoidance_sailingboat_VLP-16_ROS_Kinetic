@@ -1,8 +1,0 @@
-prefix=/home/daniel/catkin_ws/devel
-
-Name: anchorpoint
-Description: Description of anchorpoint
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/daniel/catkin_ws/devel/lib 
-Requires: message_runtime roscpp

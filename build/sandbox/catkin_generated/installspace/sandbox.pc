@@ -1,8 +1,0 @@
-prefix=/home/daniel/catkin_ws/install
-
-Name: sandbox
-Description: Description of sandbox
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/daniel/catkin_ws/install/lib 
-Requires: message_runtime roscpp
